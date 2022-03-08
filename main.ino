@@ -1,6 +1,6 @@
 // ardu-flight
 // Manual Flight Control with IMU stabilization and training mode by
-// rominou66 - Katsuo Engineering
+// rominou66
 // Program is designed to run on an Arduino UNO or an Arduino NANO
 // GNU GPLv3
 
